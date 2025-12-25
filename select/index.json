@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Baby, It's Cold Outside (Lyric Video)",
+  "base_artist": "Dean Martin",
+  "createdAt": "2025-12-25T12:07:38.960378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby It's Cold Outside",
+      "artist": "War",
+      "has_synced": false,
+      "path": "select/01_Baby_It's_Cold_Outside_War.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby It's Cold Outside",
+      "artist": "Kalimba",
+      "has_synced": true,
+      "path": "select/02_Baby_It's_Cold_Outside_Kalimba.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby Its Cold Outside",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/03_Baby_Its_Cold_Outside_Various.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby, It’s Cold Outside",
+      "artist": "War",
+      "has_synced": false,
+      "path": "select/04_Baby,_It’s_Cold_Outside_War.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby It's Cold Outside",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/05_Baby_It's_Cold_Outside_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby, it's cold outside",
+      "artist": "Bobby Caldwell",
+      "has_synced": true,
+      "path": "select/06_Baby,_it's_cold_outside_Bobby_Caldwell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby, It's Cold Outside",
+      "artist": "Leon Redbone",
+      "has_synced": false,
+      "path": "select/07_Baby,_It's_Cold_Outside_Leon_Redbone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby, It’s Cold Outside",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/08_Baby,_It’s_Cold_Outside_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby, It's Cold Outside",
+      "artist": "Taj Mahal",
+      "has_synced": true,
+      "path": "select/09_Baby,_It's_Cold_Outside_Taj_Mahal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby It’s Cold Outside",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/10_Baby_It’s_Cold_Outside_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby, It's Cold Outside",
+      "artist": "Dean Martin",
+      "has_synced": true,
+      "path": "select/11_Baby,_It's_Cold_Outside_Dean_Martin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby, It's Cold Outside",
+      "artist": "Steve Tyrell",
+      "has_synced": false,
+      "path": "select/12_Baby,_It's_Cold_Outside_Steve_Tyrell.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby It's Cold Outside",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/13_Baby_It's_Cold_Outside_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby It's Cold Outside",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/14_Baby_It's_Cold_Outside_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baby It’s Cold Outside",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/15_Baby_It’s_Cold_Outside_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby It's Cold Outside",
+      "artist": "Colin James",
+      "has_synced": false,
+      "path": "select/16_Baby_It's_Cold_Outside_Colin_James.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby, It's Cold Outside",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/17_Baby,_It's_Cold_Outside_Various.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Baby, It's Cold Outside",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/18_Baby,_It's_Cold_Outside_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Baby, It's Cold Outside",
+      "artist": "Tom Jones",
+      "has_synced": false,
+      "path": "select/19_Baby,_It's_Cold_Outside_Tom_Jones.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby, It's Cold Outside",
+      "artist": "Dean Martin",
+      "has_synced": false,
+      "path": "select/pl_01_Baby,_It's_Cold_Outside_Dean_Martin.txt"
+    }
+  ]
+}
